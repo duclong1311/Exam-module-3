@@ -1,0 +1,33 @@
+{
+    "products": [
+      {
+        "stt": 1,
+        "maSanPham": "PROD-0001",
+        "tenSanPham": "Nhiệt Kế hồng ngoại",
+        "theLoai": "Thực phẩm chức năng",
+        "soLuong": 100,
+        "gia": 500000,
+        "ngayNhap": "2022-02-22"
+      },
+      {
+        "stt": 2,
+        "maSanPham": "PROD-0002",
+        "tenSanPham": "Viên uống bổ sung vitamin",
+        "theLoai": "Thực phẩm chức năng",
+        "soLuong": 50,
+        "gia": 250000,
+        "ngayNhap": "2023-03-24"
+      },
+      {
+        "stt": 3,
+        "maSanPham": "PROD-0003",
+        "tenSanPham": "Máy đo huyết áp",
+        "theLoai": "Thiết bị y tế",
+        "soLuong": 500,
+        "gia": 1350000,
+        "ngayNhap": "2023-02-03"
+      }
+    ],
+    "categories": ["Thực phẩm chức năng", "Thuốc", "Thiết bị y tế","Dược Phẩm"]
+  }
+  
